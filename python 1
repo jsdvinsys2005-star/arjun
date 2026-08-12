@@ -1,7 +1,0 @@
-x = 35
-y = 18E4
-z = 55
-
-print(type(x))
-print(type(y))
-print(type(z))
